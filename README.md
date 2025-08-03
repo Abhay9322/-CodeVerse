@@ -1,28 +1,71 @@
-AI integrated MERN Stack platform supporting JavaScript, C++, Java, PHP & TypeScript. All in one Intuitive, Customizable Interface. Ideal for all skill levels, It offers a seamless experience for coding, learning & collaboration.
+🤖 AI Integrated CodeVerse Platform (MERN Stack)
+A complete AI-powered coding platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It supports JavaScript, C++, Java, PHP, and TypeScript with an intuitive, customizable interface. Perfect for beginners to advanced users, enabling seamless coding, learning, collaboration, and AI interaction — all in one place.
+
+📁 Folder Structure
+
+CodeVerse/
+├── backend/       → Express.js backend with AI integration and code execution API
+├── frontend/      → React.js frontend with interactive coding features
 
 
-**Install Dependencies(for both folder)**
-   ```bash
+🚀 Key Features
+💬 AI Chat for instant coding help & explanations
+
+👨‍💻 Online Code Editor supporting JavaScript, C++, Java, PHP & TypeScript
+
+📚 Learn Page for structured tutorials and resources
+
+📝 Smart Notes with AI-powered insights
+
+🧠 AI Assistant to debug, explain, and enhance code
+
+🎨 Customizable Workspace for personalized coding experience
+
+🤝 Collaborative Tools (planned)
+
+⚡ Fast & Responsive UI
+
+
+🧰 Tech Stack
+Frontend: React.js, Tailwind CSS, Axios, React Router
+
+Backend: Node.js, Express.js
+
+AI: OpenAI
+
+Code Execution: Custom sandboxed server API
+
+Dev Tools: VS Code, GitHub, Postman
+
+💻 How to Run Locally
+📌 1. Clone the Repository
+
+git clone https://github.com/your-username/CodeVerse.git
+cd CodeVerse
+
+📦 2. Install Dependencies
+
+cd backend
 npm install
 
-   ```
+cd ../frontend
+npm install
 
-**To Start**
-1. npm run dev (Run this command inside Frontend Folder)
-2. npm start (Run this command inside Backend Folder)
+⚙️ 3. Setup Environment Variables
+Create a .env file inside the frontend/ folder:
 
-*Homepage*
-<!-- ![homepage](https://github.com/user-attachments/assets/040856fa-6beb-44f9-ab00-8036abfabe18) -->
-![homepage](./images/Homepage.png)
+VITE_YOUTUBE_API_KEY=your_youtube_api_key
 
-*Workspace*
-![workspace](./images/Workspace.png)
+▶️ 4. Start the App
+Run Backend:
+cd backend
+npm start
 
-*Chat with AI*
-![chat](./images/Chat.png)
+Run Frontend:
+cd frontend
+npm run dev
 
-*Learn*
-![learn](./images/Learn.png)
 
-*Notes*
-![notes](./images/Notes.png)
+
+
+
