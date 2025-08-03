@@ -1,4 +1,4 @@
-🤖 AI Integrated CodeVerse Platform (MERN Stack)
+# 🤖  AI Integrated CodeVerse Platform – MERN Stack Project
 A complete AI-powered coding platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It supports JavaScript, C++, Java, PHP, and TypeScript with an intuitive, customizable interface. Perfect for beginners to advanced users, enabling seamless coding, learning, collaboration, and AI interaction — all in one place.
 
 📁 Folder Structure
